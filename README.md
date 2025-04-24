@@ -1,4 +1,6 @@
-# E-commerce-Database-Design
+# E-commerce Database Design
+
+# About the Project
 
 This is a design for e-commerce database. It also contains (Entity Relationship Diagram)ERD. The description of database down below.
 
@@ -29,7 +31,8 @@ attribute_category 📚: Groups attributes—like "Physical Attributes", "Tech S
 
 attribute_type 🧪: Defines value types: string, number, boolean, etc
 
-Notes
+# Notes
+
 The product_attribute table supports multiple value types using value_text, value_number, and value_boolean. Only one should be used per attribute.
 
 SKU is stored at the product_item level, representing a unique variation ready to sell.
@@ -56,7 +59,7 @@ It's what gets shipped.
 
 So while a product (like a T-shirt) is a general concept, a sellable SKU (T-shirt, red, M) is a specific version of that product that the system tracks for stock, pricing, and orders.
 
-# Technologies Used 
+# Used Tools 
 
 Draw.io
 
