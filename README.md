@@ -56,6 +56,7 @@ It's what gets shipped.
 
 So while a product (like a T-shirt) is a general concept, a sellable SKU (T-shirt, red, M) is a specific version of that product that the system tracks for stock, pricing, and orders.
 
-Technologies Used
+# Technologies Used 
+
 Draw.io
 MySQL Workbench 
