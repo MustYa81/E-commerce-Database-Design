@@ -35,7 +35,7 @@ SKU is stored at the product_item level, representing a unique variation ready t
 product_variation links each SKU to its size and color.
 
 Stock Keeping Unit (SKU)
-A SKU is a unique identifier for each individual item that you can actually sell. It tracks specific variations like:
+A SKU is a unique identifier for each individual item that one can actually sell. It tracks specific variations like:
 
 Product: T-shirt
 
@@ -46,10 +46,10 @@ Size: Medium
 ➡️ Together, this combo is one sellable SKU, often stored in a table like product_item.
 
 🧠 Why It Matters:
-It's what's in your inventory.
+It's what's in the inventory.
 
 It's what customers add to their cart.
 
 It's what gets shipped.
 
-So while a product (like a T-shirt) is a general concept, a sellable SKU (T-shirt, red, M) is a specific version of that product that your system tracks for stock, pricing, and orders.
+So while a product (like a T-shirt) is a general concept, a sellable SKU (T-shirt, red, M) is a specific version of that product that the system tracks for stock, pricing, and orders.
