@@ -1,5 +1,7 @@
 # E-commerce-Database-Design
 
+This is a design for e-commerce database. It also contains (Entity Relationship Diagram)ERD. The description of database down below.
+
 Core Product Structure
 product 🧾: The base unit, storing general info like name, brand, and base price.
 
@@ -53,3 +55,7 @@ It's what customers add to their cart.
 It's what gets shipped.
 
 So while a product (like a T-shirt) is a general concept, a sellable SKU (T-shirt, red, M) is a specific version of that product that the system tracks for stock, pricing, and orders.
+
+Technologies Used
+Draw.io
+MySQL Workbench 
